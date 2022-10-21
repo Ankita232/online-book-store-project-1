@@ -1,0 +1,20 @@
+.left {
+    width:20%;
+    float:left;
+    height:200vh;
+    background: rgb(0, 225, 255);
+    // opacity: 0.6;
+}
+.right {
+    height: 200vh;
+    text-align: center;
+    float: right;
+    width: 80%;
+    // background-image: url("https://images.wallpaperscraft.com/image/single/books_glasses_vase_140465_300x168.jpg");
+    // background-size:cover;
+    background-image: url('https://images2.alphacoders.com/261/thumbbig-26102.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+

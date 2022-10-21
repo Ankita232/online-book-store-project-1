@@ -1,0 +1,15 @@
+.main {
+    display: block;
+    font-size: 18px;
+    padding: 15px;
+    div {
+        cursor: pointer;
+        color: black;
+        height: 52px;
+        font-style:normal;
+    }
+    :hover{
+        background-color: aliceblue;
+        border: adjust-color($color: #000000);
+    }
+}
